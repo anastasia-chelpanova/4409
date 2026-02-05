@@ -1,0 +1,42 @@
+# Visual Studio files and directories
+.vs/
+*.suo
+*.user
+*.ncb
+*.aps
+*.pdb
+*.obj
+*.ilk
+*.idb
+*.lib
+*.exp
+*.log
+*.bak
+*.sbr
+*.bsc
+*.res
+*.pch
+*.ipch
+*.tlog
+*.lastbuildstate
+*.VC.db
+*.vcxproj.filters
+*.vcxproj.user
+*.vcxproj.bak
+ipch/
+Debug/
+Release/
+x64/
+Win32/
+bin/
+obj/
+build/
+GeneratedFiles/
+# NuGet packages
+*.nupkg
+packages/
+# ReSharper files
+*.DotSettings
+# Other common files to ignore
+Thumbs.db
+Desktop.ini
