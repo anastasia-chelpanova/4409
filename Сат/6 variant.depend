@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1770306566 source:c:\users\Сат\desktop\c++\6\header.cpp
+	<iostream>
+	<cmath>
+	"header.h"
+
+1770126442 c:\users\Сат\desktop\c++\6\header.h
+
+1770308095 source:c:\users\Сат\desktop\c++\6\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
